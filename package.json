@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-validator": "^0.0.34"
+    "json-validator": "^0.0.34",
+    "validator": "^13.6.0"
   }
 }
